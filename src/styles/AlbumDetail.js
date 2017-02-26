@@ -18,3 +18,9 @@ export const thumbnailContainerStyle = {
 export const headerTextStyle = {
   fontSize: 18,
 };
+
+export const imageStyle = {
+  height: 300,
+  flex: 1,
+  width: null,
+};
